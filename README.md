@@ -1,2 +1,3 @@
 # desafio-DIO-criando-meu-primeiro-repositório
-projeto de desafio desafio git/github
+projeto de  desafio git/github da dio 
+
