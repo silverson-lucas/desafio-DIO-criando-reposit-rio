@@ -1,3 +1,4 @@
 # desafio-DIO-criando-meu-primeiro-repositório
-projeto de  desafio git/github da dio 
+projeto do desafio git/github da dio 
 
+##[sintaxe_basica_markdown](https://git-scm.com/downloads)
